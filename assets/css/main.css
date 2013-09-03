@@ -1,0 +1,67 @@
+body {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  /*specled noise - http://codepen.io/progers/pen/eAasl
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCI+CjxmaWx0ZXIgaWQ9Im4iIHg9IjAiIHk9IjAiPgo8ZmVUdXJidWxlbmNlIHR5cGU9ImZyYWN0YWxOb2lzZSIgYmFzZUZyZXF1ZW5jeT0iMC43IiBudW1PY3RhdmVzPSIxMCIgc3RpdGNoVGlsZXM9InN0aXRjaCI+PC9mZVR1cmJ1bGVuY2U+CjwvZmlsdGVyPgo8cmVjdCB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iIzAwMCI+PC9yZWN0Pgo8cmVjdCB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgZmlsdGVyPSJ1cmwoI24pIiBvcGFjaXR5PSIwLjQiPjwvcmVjdD4KPC9zdmc+");
+  */
+  background-image: url("/assets/img/wild_oliva.png");
+}
+
+
+.container {
+    margin: 0 auto;
+    padding: 10px 10px 30px 10px;
+    max-width:768px;
+    /* subtle dots - http://philbit.com/svgpatterns/#subtledots
+    background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1IiBoZWlnaHQ9IjUiPgo8cmVjdCB3aWR0aD0iNSIgaGVpZ2h0PSI1IiBmaWxsPSIjZmZmIj48L3JlY3Q+CjxyZWN0IHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiNjY2MiPjwvcmVjdD4KPC9zdmc+");
+    */
+    background-image: url("/assets/img/linedpaper.png");
+}
+
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Source Code Pro'), local('SourceCodePro-Regular'), 
+  url(https://themes.googleusercontent.com/static/fonts/sourcecodepro/v3/mrl8jkM18OlOQN8JLgasD9Hq-FFgoDNV3GTKpHwuvtI.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Source Code Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Source Code Pro Bold'), local('SourceCodePro-Bold'), 
+  url(https://themes.googleusercontent.com/static/fonts/sourcecodepro/v3/leqv3v-yTsJNC7nFznSMqYqjGYJUyOXcBwUQbRaNH6c.woff) format('woff');
+}
+
+@font-face {
+  font-family: 'Lobster';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lobster'), 
+  url(https://themes.googleusercontent.com/static/fonts/lobster/v5/NIaFDq6p6eLpSvtV2DTNDQLUuEpTyoUstqEm5AMlJo4.woff) format('woff');
+}
+
+.brand {
+  font-family: Lobster, Georgia, Times, serif;
+  font-size:200%;
+}
+
+.main-heading{
+  font-family: Lobster, Georgia, Times, serif;
+  margin-top:10px;
+  margin-bottom:10px;
+}
+
+.main-sub-heading {
+  font-family: Source Code Pro, Helvetica, Arial, sans-serif;
+  font-size:16px;
+  margin-top:10px;
+  margin-bottom:20px;
+}
+
+#canvas-container {
+    text-align: center;
+    margin-top: 30px;
+}
+
