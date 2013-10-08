@@ -1,67 +1,107 @@
 body {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  /*specled noise - http://codepen.io/progers/pen/eAasl
-  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCI+CjxmaWx0ZXIgaWQ9Im4iIHg9IjAiIHk9IjAiPgo8ZmVUdXJidWxlbmNlIHR5cGU9ImZyYWN0YWxOb2lzZSIgYmFzZUZyZXF1ZW5jeT0iMC43IiBudW1PY3RhdmVzPSIxMCIgc3RpdGNoVGlsZXM9InN0aXRjaCI+PC9mZVR1cmJ1bGVuY2U+CjwvZmlsdGVyPgo8cmVjdCB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgZmlsbD0iIzAwMCI+PC9yZWN0Pgo8cmVjdCB3aWR0aD0iMzAwIiBoZWlnaHQ9IjMwMCIgZmlsdGVyPSJ1cmwoI24pIiBvcGFjaXR5PSIwLjQiPjwvcmVjdD4KPC9zdmc+");
-  */
-  background-image: url("/assets/img/wild_oliva.png");
+  background-image: url("../../assets/img/linedpaper.png");
+  padding: 0;
+  margin: 0;
+  font-family: Source Code Pro, Courier, monospace;
+  font-size: 1rem;
+  line-height: 1.45rem;
 }
 
-
-.container {
+.content {
     margin: 0 auto;
-    padding: 10px 10px 30px 10px;
-    max-width:768px;
-    /* subtle dots - http://philbit.com/svgpatterns/#subtledots
-    background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1IiBoZWlnaHQ9IjUiPgo8cmVjdCB3aWR0aD0iNSIgaGVpZ2h0PSI1IiBmaWxsPSIjZmZmIj48L3JlY3Q+CjxyZWN0IHdpZHRoPSIxIiBoZWlnaHQ9IjEiIGZpbGw9IiNjY2MiPjwvcmVjdD4KPC9zdmc+");
-    */
-    background-image: url("/assets/img/linedpaper.png");
+    max-width: 800px;
 }
 
-@font-face {
-  font-family: 'Source Code Pro';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Source Code Pro'), local('SourceCodePro-Regular'), 
-  url(https://themes.googleusercontent.com/static/fonts/sourcecodepro/v3/mrl8jkM18OlOQN8JLgasD9Hq-FFgoDNV3GTKpHwuvtI.woff) format('woff');
+.story {
+  margin: 2rem 1rem 1rem 1rem;
 }
 
-@font-face {
-  font-family: 'Source Code Pro';
-  font-style: normal;
-  font-weight: 700;
-  src: local('Source Code Pro Bold'), local('SourceCodePro-Bold'), 
-  url(https://themes.googleusercontent.com/static/fonts/sourcecodepro/v3/leqv3v-yTsJNC7nFznSMqYqjGYJUyOXcBwUQbRaNH6c.woff) format('woff');
+.viz {
+  font-size: 0.9rem;
 }
 
-@font-face {
-  font-family: 'Lobster';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Lobster'), 
-  url(https://themes.googleusercontent.com/static/fonts/lobster/v5/NIaFDq6p6eLpSvtV2DTNDQLUuEpTyoUstqEm5AMlJo4.woff) format('woff');
+table {
+  border-collapse: collapse;
+}
+
+td, th {
+  padding: 0.25rem;
+  text-align: right;
+}
+
+th {
+  border-bottom: 1px solid #999;
 }
 
 .brand {
-  font-family: Lobster, Georgia, Times, serif;
-  font-size:200%;
+  font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
+  font-weight: 900;
+  font-size: 250%;
+  color: #57ad68;
+  text-decoration: none;
 }
 
-.main-heading{
-  font-family: Lobster, Georgia, Times, serif;
-  margin-top:10px;
-  margin-bottom:10px;
+.tagline  {
+  font-weight: 400;
 }
 
-.main-sub-heading {
-  font-family: Source Code Pro, Helvetica, Arial, sans-serif;
-  font-size:16px;
-  margin-top:10px;
-  margin-bottom:20px;
+a {
+  color: #57ad68;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
+header {
+  padding-bottom: 10px;
+}
+
+footer {
+  padding-top: 10px;
 }
 
 #canvas-container {
     text-align: center;
     margin-top: 30px;
+}
+
+.tableformat td{
+  text-align: right;
+}
+
+.tableformat th{
+  text-align: center;
+}
+
+/* Styling d3 graphs */
+.axis path,
+.axis line {
+    fill: none;
+    stroke: black;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-size: 12px;
+}
+
+
+@media all {
+  html {font-size: 18px;}
+}
+
+@media all and (max-width:767px){
+  html {font-size: 16px;
+}
+  
+@media all and (max-width:480px){
+  html {font-size: 14px;}
+}
+
+@media all and (max-width:320px){
+  html {font-size: 12px;}
 }
 
