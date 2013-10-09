@@ -1,14 +1,13 @@
 ---
 layout: default
+published: true
 ---
 
 # Playbook
 
-The playbook is my way to share how to tell visual stories with data by way of clear and thoughtfully organized lessons. I am offering 'plays' that have worked for me. I trust your judgement to decide which approaches might work better for you.  
-
+The playbook is my way to share how to tell visual stories with data by way of clear and thoughtfully organized lessons. I am offering 'plays' that have worked for me. I trust your judgement to decide which approaches might work better for you.
 
 I am posting a lesson every couple of weeks. This is a draft outline and may change as the playbook is written. Please do subscribe to get informed when the lessons are posted.
-
 
 ## Introduction
 **[What is Telling Visual Stories with Data](/playbook/intro)** - A brief introduction to data visualization and storytelling
@@ -25,8 +24,6 @@ when to use which one?
 **Visualizing Text** - We know that gaining insight from qualitative text is hard. However, thinking of ways to visualize text is even harder. Can we make it easy?
 
 **Adding Interactivity** - We mostly stick to static visuals like in a text book. Why aren't data visualizations interactive and playful? 
-
-
 		
 ## Art of Listening
 
@@ -47,4 +44,3 @@ when to use which one?
 **Good ol' PowerPoint**
 
 **Polished [Tableau](http://www.tableausoftware.com/products/public)**
-
