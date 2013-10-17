@@ -9,7 +9,7 @@ body {
 
 .content {
     margin: 0 auto;
-    max-width: 800px;
+    max-width: 768px;
 }
 
 .story {
@@ -43,6 +43,10 @@ th {
 
 .tagline  {
   font-weight: 400;
+}
+
+.logo {
+  float: right;
 }
 
 a {

@@ -12,11 +12,11 @@ category: playbook
 - **Exploration (Interactivity)** - Data tool for engagement, exploration and discovery
 - **Explanatory (Storytelling)** - Data stories for telling a specific and (linear) visual narrative
 
+![Image](../../assets/img/data_visual_story.svg)
+
 ## Three Ingredients
 
-<img src="../../assets/img/data_story_visual.png"/>
-
- Visuals and stories without data is **art** and we have great examples of these in the form of comics, movies, etc. Data and visuals without a story is **graphs** and we have understood a lot about graphs over the last 30 years. Stories and data without visuals are **tales** and we have been telling tales for a long time, though maybe less so of the data kind. But if we can find a way to put all of them together, we can possibly hit the sweet spot. We need all three of them.
+Visuals and stories without data is **art** and we have great examples of these in the form of comics, movies, etc. Data and visuals without a story is **graphs** and we have understood a lot about graphs over the last 30 years. Stories and data without visuals are **tales** and we have been telling tales for a long time, though maybe less so of the data kind. But if we can find a way to put all of them together, we can possibly hit the sweet spot. We need all three of them.
 
 ## Persuasion
 It is the aesthetic experience of the story and the visual which captures the whole of the mind. We miss out if we only focus on the power of **logos** (logical) through data and appeal to the intellect. We forget the power of **pathos** (emotional) and even **ethos** (credibility), which visuals and stories bring by engaging our visual and our aural senses. 
@@ -28,9 +28,10 @@ We can all tell a good story, if we appreciate silence. We can all create a good
 
 ## Why do we need the same
 
-
 analysis | SYNTHESIS
+
 numbers | VISUALISE
+
 argument | STORY
 
 ## Three Steps

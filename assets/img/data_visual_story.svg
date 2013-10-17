@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600" height="400" viewbox = "0 0 600 400">
+	<circle cx="235" cy="150" r="100" fill="rgba(234,234,234,0.5)" stroke-width="1" stroke="rgb(200,100,100)"/>
+	<circle cx="365" cy="150" r="100" fill="rgba(234,234,234,0.5)" stroke-width="1" stroke="rgb(100,100,100)"/>
+	<circle cx="300" cy="250" r="100" fill="rgba(234,234,234,0.5)" stroke-width="1" stroke="rgb(100,100,100)"/>
+	<text x="235" y="150" font-size="1.3rem" text-anchor="end">Data</text>
+	<text x="365" y="150" font-size="1.3rem" text-anchor="start">Story</text>
+	<text x="300" y="300" font-size="1.3rem" text-anchor="middle">Visual</text>
+	<text x="300" y="125" font-size="1rem" text-anchor="middle">Tale</text>
+	<text x="240" y="225" font-size="1rem" text-anchor="middle">Graph</text>
+	<text x="350" y="225" font-size="1rem" text-anchor="middle">Art</text>
+	<text x="300" y="200" font-size="2rem" text-anchor="middle">*</text>
+</svg>
