@@ -12,7 +12,7 @@ category: playbook
 - **Exploration (Interactivity)** - Data tool for engagement, exploration and discovery
 - **Explanatory (Storytelling)** - Data stories for telling a specific and (linear) visual narrative
 
-![Image](../../assets/img/data_visual_story.svg)
+![Image](../../assets/img/data_visual_story.png)
 
 ## Three Ingredients
 

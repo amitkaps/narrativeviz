@@ -14,9 +14,9 @@ I am posting a lesson every couple of weeks. This is a draft outline and may cha
 
 ## Art of Observation
 
-**[Starting with Structure and Synthesis](/playbook/structure)** - Where do we start from? Let us start by putting some structure around our data visualizations
+**Starting with Structure and Synthesis** - Where do we start from? Let us start by putting some structure around our data visualizations
 
-**[Learning the Basic Principles](/playbook/principles)** - Let us understand the ground rules for designing a good visualization. We need to know the rules to break it. 
+**Learning the Basic Principles** - Let us understand the ground rules for designing a good visualization. We need to know the rules to break it. 
 
 **Making Tables &amp; Graph** - It is surprising how often we represent data using different types of table and graphs. Do you know 
 when to use which one?
