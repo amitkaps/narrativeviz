@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## [nViz](/nviz)
+## [nVIZ](/nviz)
 		
 A one day interactive workshop to learn about storytelling and data visualisation together, through hands-on sessions. 
 

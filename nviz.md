@@ -2,6 +2,6 @@
 layout: default
 ---
 
-# nViz
+# nVIZ
 
 Coming Soon!
