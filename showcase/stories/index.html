@@ -18,6 +18,7 @@
 	-->
 	<link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,900|Source+Code+Pro:400,700|Kaushan+Script|Cabin+Sketch:400,700' rel='stylesheet' type='text/css'>
 	<link type="text/css" rel="stylesheet" href="onepage-scroll.css"/>
+	<link type="text/css" rel="stylesheet" href="style.css"/>
 
 	<!-- ====Javascript==== -->
 	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
@@ -28,25 +29,51 @@
 	  $(document).ready(function(){
       $(".main").onepage_scroll({
         sectionContainer: "section",
-        responsiveFallback: 600
+        responsiveFallback: 600,
+        pagination: true,
+        updateURL: true
+
       });
 		});
 		
 	</script>
 
-	<style>
-		h1 {font-size: 3em;
-			text-align: center;}
-
-	</style>
 </head>    
     
 <body>  
 
   <div class="main">
-    <section><h1>What makes a data-story work?</h1></section>
-    <section><h1>Page 2</h1></section>
-    <section><h1>Page 3</h1></section>
+    <section>
+    	<h1>What makes a data-story work?</h1>
+    	<h2> Amit Kapoor / narrativeVIZ / amit@narrativeviz.com</h2>
+    	<h2> Kavitha Ranganathan / 	IIM Ahmedabad / kavitha@iimahd.ernet.in </h2>
+    </section>
+    
+    <section>
+    	<h2>Persuasion</h1>
+    	LOGOS 
+    	PATHOS 
+    	ETHOS
+    </section>
+
+
+    <section>
+    	<h2> The sweet spot of a data-story</h2>
+    	<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800" height="600" viewbox = "0 0 600 400">
+			<circle cx="235" cy="150" r="100" fill="rgba(255,0,0,0.5)" stroke-width="2" stroke="rgb(0,0,0)"/>
+			<circle cx="365" cy="150" r="100" fill="rgba(0,255,0,0.5)" stroke-width="2" stroke="rgb(0,0,0)"/>
+			<circle cx="300" cy="250" r="100" fill="rgba(0,0,255,0.5)" stroke-width="2" stroke="rgb(0,0,0)"/>
+			<text x="235" y="150" font-size="1.3rem" text-anchor="end">Data</text>
+			<text x="365" y="150" font-size="1.3rem" text-anchor="start">Story</text>
+			<text x="300" y="300" font-size="1.3rem" text-anchor="middle">Visual</text>
+			<text x="300" y="125" font-size="1rem" text-anchor="middle">Tale</text>
+			<text x="240" y="225" font-size="1rem" text-anchor="middle">Graph</text>
+			<text x="350" y="225" font-size="1rem" text-anchor="middle">Art</text>
+			<text x="300" y="200" font-size="2rem" text-anchor="middle">*</text>
+		</svg>
+    </section>
+    
+
     <section><h1>Page 4</h1></section>
     <section><h1>Page 5</h1></section>
     <section><h1>Page 6</h1></section>

@@ -7,7 +7,7 @@ published: true
 
 The playbook is my way to share how to tell visual stories with data by way of clear and thoughtfully organized lessons. I am offering 'plays' that have worked for me. I trust your judgement to decide which approaches might work better for you.
 
-I am posting a lesson every couple of weeks. This is a draft outline and may change as the playbook is written. Please do subscribe to get informed when the lessons are posted.
+I am posting a lesson every couple of weeks. This is a draft outline and may change as the playbook is written. Please do [subscribe](http://eepurl.com/N326P) to get informed when the lessons are posted.
 
 ## Introduction
 **[What is Telling Visual Stories with Data](/playbook/intro)** - A brief introduction to data visualization and storytelling
