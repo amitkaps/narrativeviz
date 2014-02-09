@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## [Workshop](/workshop)
+## Workshop
 		
 <a href="/workshop"> 
  <img class="small" src="../assets/img/data_story_visual_potrait.jpg" />
