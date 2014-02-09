@@ -1,4 +1,0 @@
-narrativeviz
-============
-
-NarrativeViz
