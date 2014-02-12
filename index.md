@@ -12,14 +12,6 @@ Come and explore this intersection of data, story and visuals. A one day interac
 
 Learn more and sign up here. 
 
-## [Playbook](/playbook)
-
-<a href="/playbook"> 
- <img class="small" src="../assets/img/data_story_visual_potrait.jpg" />
-</a>
-
-The playbook is my way to share how to tell visual stories with data by way of clear and thoughtfully organized lessons. I am offering 'plays' that have worked for me. I trust your judgement to decide which approaches might work better for you. 
-
 ## [Research](/research)
 
 <a href="/research"> 
@@ -31,9 +23,17 @@ So what makes a data-story work? As part of ongoing research, we are using a cas
 
 We are using this framework to articulate generic strategies that can be used for effective data-stories using exploratory and explanatory visualization in personal and presentation context.
 
-## [Exemplar](/exemplar)
+## [Playbook](/playbook)
 
-Browse through these sample patterns and archetypes of narrative visualizations
+<a href="/playbook"> 
+ <img class="small" src="../assets/img/observe_listen_learn_small.jpg" />
+</a>
+
+The playbook is my way to share how to tell visual stories with data by way of clear and thoughtfully organized lessons. I am offering 'plays' that have worked for me. I trust your judgement to decide which approaches might work better for you. 
+
+## Exemplar
+
+Browse through these sample patterns and archetypes of narrative visualizations (Coming Soon!)
 
 ## Contact
 
