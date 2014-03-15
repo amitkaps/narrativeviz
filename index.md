@@ -10,7 +10,7 @@ layout: default
 
 Come and explore this intersection of data, story and visuals. A one day interactive workshop to learn about storytelling and data visualisation together, through hands-on sessions. 
 
-Learn more and sign up here. 
+Learn more and [sign up here](http://eepurl.com/N34QP). 
 
 ## [Research](/research)
 

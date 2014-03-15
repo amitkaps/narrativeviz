@@ -4,5 +4,12 @@ layout: default
 
 # Workshop
 
-## Telling Visual Stories with Data
+## Crafting Visual Stories with Data
 
+
+
+
+
+
+
+## Visual Intelligence
