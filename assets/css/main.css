@@ -8,9 +8,9 @@ body {
   background-image: url("../../assets/img/linedpaper.png");
   padding: 0;
   margin: 0;
-  font-family: Source Code Pro, Courier, monospace;
-  font-size: 1rem;
-  line-height: 1.45rem;
+  font-family: PT Serif, Times, Serif;
+  font-size: 1.1rem;
+  line-height: 1.7rem;
 }
 
 .content {
@@ -50,9 +50,9 @@ th {
 }
 
 .brand {
-  font-family: Source Sans Pro, Helvetica, Arial, sans-serif;
+  font-family: Source Sans Pro, Helvetica, Arial, sans-serif; 
   font-weight: 900;
-  font-size: 250%;
+  font-size: 2.5rem;
   color: #57ad68;
   text-decoration: none;
 }

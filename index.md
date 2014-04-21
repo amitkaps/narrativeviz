@@ -2,15 +2,15 @@
 layout: default
 ---
 
-## Workshop
+## [Workshop](/workshop)
 		
 <a href="/workshop"> 
  <img class="small" src="../assets/img/data_story_visual_potrait.jpg" />
 </a>
 
-Come and explore this intersection of data, story and visuals. A one day interactive workshop to learn about storytelling and data visualisation together, through hands-on sessions. 
+Come and explore this intersection of data, story and visuals. A two day interactive workshop to learn about storytelling and data visualisation together, through hands-on sessions. 
 
-Learn more and [sign up here](http://eepurl.com/N34QP). 
+[Learn more](/workshop) and [sign up here](http://eepurl.com/N34QP). 
 
 ## [Research](/research)
 
