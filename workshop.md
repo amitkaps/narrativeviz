@@ -11,20 +11,19 @@ layout: default
 > *"I think people have begun to forget how powerful human stories are, ex-changing their sense of empathy for a fetishistic fascination with data, networks, patterns, and total information... Really, the data is just part of the story. The human stuff is the main stuff, and the data should enrich it." - Jonathan Harris, artist and computer scientist*
 
 
-The ever increasing computational capacity has enabled us to acquire, process and analyze larger data-sets and information available now. However, the human memory and attention required to use this data is more limited and has remained relatively constant. Data visualization and storytelling can enable us to compress data and encode them in ways to aid this perceptual, cognitive and emotional capacity required to comprehend, retain and make decisions using this data. It enables us to move from analysis to synthesis, from numbers to visuals, and from an argument to a story. Operating at this intersection of data, visual and story (figure 1) will help persuade not only through logos (logic) but also through pathos (empathy) and ethos (credibility). In trying to tell compelling data-visual-story, we can empower our selves to engage, communicate and persuade a larger and diverse audience. 
+The ever increasing computational capacity has enabled us to acquire, process and analyze larger data-sets and information. However, the human memory and attention required to use this data is more limited and has remained relatively constant. Data visualization and storytelling can enable us to compress data and encode them in ways to aid perceptual, cognitive and emotional capacity required to comprehend, retain and make decisions using this data. It enables us to move from analysis to synthesis, from numbers to visuals, and from an argument to a story. Operating at this intersection of data, visual and story (figure 1) will help persuade not only through logos (logic) but also through pathos (empathy) and ethos (credibility). In trying to tell compelling data-visual-story, we can empower our selves to engage, communicate and persuade a larger and diverse audience. 
 
-Crafting visual stories with data is a cross disciplinary activity that requires us to operate at the intersection of a  visual designer, coder, statistician, and storyteller. It is both a science and an art. The science involves learning the principles of graphic design, visual art, perceptual psychology, and cognitive science to better understand how our eyes, ears and brains can process inputs in an effective, efficient and accurate manner. The art involves exploring the creative and innovative ways to create compelling data-visual-stories that appeal and engage at an emotional and aesthetic level.
+Crafting visual stories with data is a cross disciplinary activity that requires us to operate at the intersection of a visual designer, coder, statistician, and storyteller. It is both a science and an art. The science involves learning the principles of graphic design, visual art, perceptual psychology, and cognitive science to better understand how our eyes, ears and brains can process inputs in an effective, efficient and accurate manner. The art involves exploring creative and innovative ways to create compelling data-visual-stories that appeal and engage at an emotional and aesthetic level.
 
 ![Intersection of Data, Visual, and Story](../assets/img/data_story_visual.png)
 
 ## Objectives
 
-The aim of the workshop is to provide a through introduction to the craft of data-visual-story. The focus will be to lay a strong foundation for your own journey of creating compelling data-visual-story. It will make you think and reflect by challenging some of your existing design approaches and perceptions about data visualization and storytelling. There are three key objectives: 
+The aim of the workshop is to provide a thorough introduction to the craft of data-visual-story. The focus will be to lay a strong foundation for your own journey of creating compelling data-visual-story. It will make you think and reflect by challenging some of your existing design approaches and perceptions about data visualization and storytelling. There are three key objectives: 
 
 * To gain an instinctive appreciation of compelling data-visual-story through exemplars, and understand what works and how it works.
 * To provide the knowledge of the basic building blocks needed for creating a data-visual-story as well as a flexible design framework to help guide your journey in creating them.
-* To start learning the craft through practice, presentation and feedback of different processes involved in creating data-visual-story in an interactive workshop environment.
-
+* To start learning the craft of creating data-visual-story through practice, presentation and feedback in an interactive workshop environment.
 
 ## Workshop Design
 
@@ -63,7 +62,7 @@ The workshop would be scheduled over two days and would be delivered with a mix 
 
 
 ## Workshop Details
-**Participant Profile** — The workshop is ideal for anyone who is interested in learning the art and craft of visualizing data and communicating persuasively through stories. You could be working with large and complex data-sets as an analyst or using a small datasets to create simple charts and slides in your presentation as a manager. There is no pre-requisite skills, knowledge or roles necessary for attending the workshop. Only a open approach to learning through listening, observation, and participation in the workshop activities and discussion.
+**Participant Profile** — The workshop is ideal for anyone who is interested in learning the art and craft of visualizing data and communicating persuasively through stories. You could be working with large and complex data-sets as an analyst or using a small datasets to create simple charts and slides in your presentation as a manager. There are no pre-requisite skills, knowledge or roles necessary for attending the workshop. Only an open approach to learning through listening, observation, and participation in the workshop activities and discussion is required.
 
 **Number of Participants** —  The maximum number of participants for the workshop would be capped at 30. The small class size would enable a more participative environment with group interaction and presentations possible as well as opportunities to have one-to-one learning interactions. 
 
