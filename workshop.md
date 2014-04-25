@@ -31,31 +31,31 @@ The workshop would be scheduled over two days and would be delivered with a mix 
 
 * **Introduction and Fundamentals**
 	- Understand value and types of visualization & stories 
-	- *Exercise*: Conduct instinctive design critique | Review
+	- *Exercise* - Conduct instinctive design critique | Review
 	- Approach and design framework for creating data-visual-story
 	- Understand data and image models
-	- *Exercise*: Create a visualisation | Review
+	- *Exercise* - Create a visualisation | Review
 * **See the Data**
 	- Acquire, prepare and refine the data for exploration
 	- Conduct exploratory data visualization to find the data abstraction
-	- *Exercise*: Explore a data-set visually | Review
+	- *Exercise* - Explore a data-set visually | Review
 * **Show the Visual**
 	- Principles of graphical perception and integrity
 	- Understand white space, data-ink, and chart junk
-	- *Exercise*: Re-design a data chart | Review
+	- *Exercise* - Re-design a data chart | Review
 	- Select appropriate visual representation e.g. graphs 
 	- Effective use of color and animation
-	- *Exercise*: Create an effective chart | Review 
+	- *Exercise* - Create an effective chart | Review 
 * **Tell the Story**
 	- Principles of storytelling 
 	- Lessons on how stories work from other mediums
 	- Selection of messaging - text annotation and verbal
-	- *Exercise*: Tell your story | Review
+	- *Exercise* - Tell your story | Review
 	- Building a story flow - framing, transitions and archetypes
 * **Engage the Audience**
 	- Engagement in context - personal, presentation & participation 
 	- Adding interactivity to the design.
-	- *Exercise*: Presenting your data-visual-story | Review
+	- *Exercise* - Presenting your data-visual-story | Review
 * **Conclusion**
 	- Takeaway principles of compelling data-visual-story
 	- Wrap up and feedback
