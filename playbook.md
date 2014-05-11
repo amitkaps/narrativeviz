@@ -37,6 +37,8 @@ when to use which one?
 			
 ## Art of Learning
 
+**Powerful [R](http://www.r-project.org/)**
+
 **Animated [Processing](http://processing.org/)**
 
 **Swiss Knife [D3.js](http://d3js.org/)**
@@ -44,3 +46,4 @@ when to use which one?
 **Good ol' PowerPoint**
 
 **Polished [Tableau](http://www.tableausoftware.com/products/public)**
+

@@ -5,10 +5,10 @@ layout: default
 # Research
 
 ## What Makes a Data-Story Work?
+
 ### A Framework for Effective Visual Data Narratives
 
 <iframe src="http://www.slideshare.net/slideshow/embed_code/29174218?rel=0" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px 1px 0; margin-bottom:5px; max-width: 100%;" allowfullscreen="allowfullscreen">  </iframe> 
-
 
 **Authors:**
 
@@ -23,5 +23,5 @@ Stories have been recognized for their power of communication & persuasion for c
 
 **Keywords**: Storytelling, Data visualization, Narrative Visualization, Data-stories, See-Show-Tell-Engage
 
-If you are interested in participating in this ongoing research, please drop me an [email]((mailto:amit@narrativeviz.com?Subject=Research_Data-Stories).
+If you are interested in participating in this ongoing research, please drop me an [email](mailto:amit@narrativeviz.com?Subject=Research_Data-Stories).
 

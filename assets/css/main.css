@@ -70,7 +70,6 @@ a:hover {
   text-decoration: underline;
 }
 
-
 header {
   padding-bottom: 0px;
 }
@@ -91,6 +90,14 @@ footer {
 .tableformat th{
   text-align: center;
 }
+
+/* Code Styling */
+pre {
+  font-family: Source Code Pro, monospace;
+  color: blue;
+  padding: 0 5px;
+}
+
 
 /* Styling d3 graphs */
 .axis path,
