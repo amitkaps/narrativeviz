@@ -37,7 +37,7 @@ when to use which one?
 			
 ## Art of Learning
 
-**Powerful [R](http://www.r-project.org/)**
+**Powerful [R](/playbook/R.html)**
 
 **Animated [Processing](http://processing.org/)**
 

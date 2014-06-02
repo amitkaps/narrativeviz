@@ -4,3 +4,6 @@ description: "Tell Visual Stories with Data"
 permalink: pretty
 markdown: kramdown
 highlighter: pygments
+
+kramdown:
+  input: GFM
