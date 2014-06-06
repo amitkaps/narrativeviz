@@ -12,13 +12,13 @@ An interactive visualization which allows exploring the installed Base of smartp
 
 ## Bar Chart by Type
 
-Choose staked or cluster bar chart represetion, with the additional option to select and deselect the types (smartphones, tablets and PCs) and to choose from four colour pallete options (green, blue, grey and orange). Click the years to see the changing landscape.
+Choose stacked or dodged bar chart represetion, with the additional options to select and deselect the types (smartphones, tablets and PCs) and to choose from four colour palletes (green, blue, grey and orange). Click the years to see the changing landscape.
 
 <canvas data-processing-sources="barchart.pde"></canvas>
 
 ## MariMekko / Mosaic Plot by OS
 
-Mari Mekko charts are good way of showing two categorical variables - Types and OS, with the additional option to select and deselect the types (Smartphones, Tablets and PCs). Click the years to see the changing landscape.
+Mari Mekko charts are a good way of showing two categorical variables - Types and OS, with the additional option to select and deselect the types (Smartphones, Tablets and PCs). Click the years to see the changing landscape.
 
 <canvas data-processing-sources="marimekko.pde"></canvas>
 
