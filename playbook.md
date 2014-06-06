@@ -37,7 +37,9 @@ when to use which one?
 			
 ## Art of Learning
 
-**Powerful [R](/playbook/R.html)**
+**Powerful [R](http://www.r-project.org/)**
+- [Data Visualization in R](/playbook/R.html)
+- [Interactive Graphics in R](/playbook/interactiveR.html)
 
 **Animated [Processing](http://processing.org/)**
 
