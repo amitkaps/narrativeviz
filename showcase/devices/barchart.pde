@@ -54,7 +54,7 @@ int rectTypeSizeX = 100;
 int rectTypeSizeY = 25;
 int typeChoose; // stacked = 0, cluster = 1
 boolean [] typeOver= {false, false};
-String [] typeLabel = {"Stacked", "Cluster"};
+String [] typeLabel = {"Stacked", "Dodged"};
 
 // for choosing form -  Pcs, smartphones and tablets
 int formX = 25;
