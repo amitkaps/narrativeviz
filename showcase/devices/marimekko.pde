@@ -59,7 +59,7 @@ String [] formLabel = {"Smartphones", "Tablets", "PCs"};
 
 // for choosing between Years
 int yearsX = 25;
-int yearsY = 0;
+int yearsY = 525;
 int rectYearsSizeX = 50;
 int rectYearsSizeY = 25;
 int yearsChoose = 7; // 2010 = 0, 2011 = 1, ... 2015 = 5
@@ -84,6 +84,13 @@ String [] formSLabel = {"SMP", "TAB", "PCS"};
 // for writing the message
 int messageX, messageY;
 String message;
+
+// for writing the title
+int titleX, titleY;
+
+// for writing the year and os
+int yearMessageX, yearMessageY;
+int osMessageX, osMessageY;
 
 // for the MariMekko chart dimensions
 int marimekko_width;
@@ -167,9 +174,9 @@ void draw() {
       for (int indexK = 0; indexK < os; indexK++) {
         tempY = data [indexI] [yearsChoose] [indexK] * sizeY / data [indexI] [yearsChoose] [os - 1];
         cumY = cumY + tempY;
-        marimekko [indexI] [yearsChoose] [indexK] = new bar2(tempX, tempY, startX + cumX, startY - cumY,
-                                                   data [indexI] [yearsChoose][indexK], osLabelColor[indexK],
-                                                   osLabel[indexK]);
+        marimekko [indexI] [yearsChoose] [indexK] = new bar2(tempX, tempY, startX + cumX, 
+                                                  startY - cumY, data [indexI] [yearsChoose][indexK], 
+                                                  osLabelColor[indexK], osLabel[indexK]);
        }
      cumX = cumX + tempX;
     }
@@ -203,13 +210,37 @@ void draw() {
   }    
   
   // Write the initial message
-  messageX = 725;
-  messageY = height - 12; 
+  messageX = 25;
+  messageY = 70; 
   fill (0);
-  textAlign(RIGHT);
+  textAlign(LEFT);
   textFont (fontA, 11);
-  text ("Installed Device Estimate by OS in Mln Units by Amit Kapoor", messageX, messageY);
+  text ("Installed device estimates by OS in million units by Amit Kapoor", messageX, messageY);
   
+ // Write the title
+  titleX = 25;
+  titleY = 50; 
+  fill (0);
+  textAlign(LEFT);
+  textFont (fontA, 24);
+  text ("Growth of Android and Apple Ecosystem", titleX, titleY)
+
+ // Write the OS message
+  osMessageX = 25;
+  osMessageY = 570; 
+  fill (0);
+  textAlign(LEFT);
+  textFont (fontA, 11);
+  text ("Switch the devices on or off", osMessageX, osMessageY);
+
+ // Write the Years message
+  yearMessageX = 25;
+  yearMessageY = 520; 
+  fill (0);
+  textAlign(LEFT);
+  textFont (fontA, 11);
+  text ("Choose the year to see the transition", yearMessageX, yearMessageY);
+
   //Display the Years Choice
   for(int z = 0; z < years; z++) {
     if (yearsChoose == z ) {
@@ -235,7 +266,8 @@ void draw() {
       rect (osLabelX, osLabelY + z* rectOsLabelSizeY, rectOsLabelSizeX, rectOsLabelSizeY);
       fill (0);
       textAlign(CENTER, CENTER);
-      text (osLabel [z], osLabelX + rectOsLabelSizeX/2, osLabelY + z * rectOsLabelSizeY + rectOsLabelSizeY/2);
+      text (osLabel [z], osLabelX + rectOsLabelSizeX/2, 
+            osLabelY + z * rectOsLabelSizeY + rectOsLabelSizeY/2);
     }
  
   // Display the Form Choice
