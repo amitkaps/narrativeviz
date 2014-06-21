@@ -62,7 +62,7 @@ int yearsX = 25;
 int yearsY = 525;
 int rectYearsSizeX = 50;
 int rectYearsSizeY = 25;
-int yearsChoose = 7; // 2010 = 0, 2011 = 1, ... 2015 = 5
+int yearsChoose = 0; // 2010 = 0, 2011 = 1, ... 2017 = 7
 boolean [] yearsOver= {false, false, false, false, false, false, false, false};
 
 
