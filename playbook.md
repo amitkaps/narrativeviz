@@ -12,6 +12,9 @@ I am posting a lesson every couple of weeks. This is a draft outline and may cha
 ## Introduction
 **[What is Telling Visual Stories with Data](/playbook/intro)** - A brief introduction to data visualization and storytelling
 
+**[Storytelling with Data](/playbook/storytelling_with_data.pdf)** - A presentation on data visualization and storytelling
+
+
 ## Art of Observation
 
 **Starting with Structure and Synthesis** - Where do we start from? Let us start by putting some structure around our data visualizations
