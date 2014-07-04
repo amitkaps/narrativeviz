@@ -45,6 +45,8 @@ when to use which one?
 - [Interactive Graphics in R](/playbook/interactiveR.html)
 - [Simplified Grammar of Graphics](/playbook/simplified_grammar_of_graphics.pdf)
 - [Learning ggplot2 in R](/playbook/ggplot2.html)
+- [Multi Variable Visualization in R](/playbook/multi_variable_visualization.html)
+
 
 **Animated [Processing](http://processing.org/)**
 
