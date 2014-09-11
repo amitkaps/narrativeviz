@@ -8,9 +8,9 @@ layout: default
  <img class="small" src="../assets/img/data_story_visual_potrait.jpg" />
 </a>
 
-Come and explore this intersection of data, story and visuals. A two day interactive workshop to learn about storytelling and data visualisation together, through hands-on sessions. 
+Come and explore this intersection of data, story and visuals. Check out the workshop options - [storytelling and data visualization](/workshop/crafting), [designing data dashboards](/workshop/dashboards) or [data visualization in R](/workshop/R). 
 
-[Learn more](/workshop) and [sign up here](http://eepurl.com/N34QP). 
+Check out all the [workshops](/workshop). 
 
 ## [Research](/research)
 

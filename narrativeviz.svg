@@ -1,0 +1,19 @@
+<svg version="1.1"
+     baseProfile="full"
+     width="400" height="100"
+     xmlns="http://www.w3.org/2000/svg">
+
+	<style type="text/css">
+		@font-face {
+		  font-family: 'Source Sans Pro';
+		  font-style: normal;
+		  font-weight: 900;
+		  src: local('Source Sans Pro Black'), local('SourceSansPro-Black'), url(http://themes.googleusercontent.com/static/fonts/sourcesanspro/v7/toadOcfmlt9b38dHJxOBGC7eGk4PJkA83J1AXCmgUfc.woff) format('woff');
+		}
+	</style>
+
+  <text x="200" y="70" font-size="65" font-family="Source Sans Pro" fill="#57ad68" text-anchor="middle">
+  	narrativeVIZ
+  </text>
+
+</svg>
