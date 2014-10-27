@@ -33,3 +33,13 @@ Come and explore how to design data dashboards that are easy to understand and m
 Come and learn about data visualization in R. A two day hands on workshop to learn how to use R and R libraries for data visualization for conducting exploratory data analysis and communicating data insight visually.
 
 [Read more](/workshop/R).
+
+## [Data Visualization (Academic Course)](/workshop/dataviz)
+		
+<a href="/workshop/dataviz"> 
+ <img class="small" src="../assets/img/dataviz.png" />
+</a>
+
+If you are an academic institute (MBA, Design, Engineering or Analytics focussed) and want your students to learn the art and science of data visualization, then this 10 session course would be most appropriate for it.
+
+[Read more](/workshop/dataviz).
