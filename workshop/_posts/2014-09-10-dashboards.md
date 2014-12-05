@@ -73,7 +73,7 @@ The workshop would be scheduled over one day and would be delivered with a mix o
 
 **Venue Logistics** — A training venue for the workshop, with availability of a projector, sound system and whiteboard would be needed for conducting the session.
 
-**Workshop Cost** — The workshop would be charged at Rs. 75,000 per day. Service tax and other government charges as applicable will be additional. Also, for sessions conducted outside of Bangalore, the facilitator's travel and accommodation cost would be charged on actuals.
+**Workshop Cost** — The workshop would be charged at Rs. 75,000 per day (for Indian locations) or USD 3,000 per day (for International locations). Service tax and other government charges as applicable will be additional. Also, for sessions conducted outside of Bangalore, the facilitator's travel and accommodation cost would be charged on actuals.
  
 **Facilitation** — Amit Kapoor, Founder, narrativeVIZ Consulting will facilitate the two-day workshop. 
 
