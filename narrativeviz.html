@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <meta charset="utf-8">
-<canvas width="400" height="100"></canvas>
+<canvas width="600" height="600"></canvas>
 <script>
 
 var canvas = document.querySelector("canvas"),
     context = canvas.getContext("2d");
 
 var image = new Image;
-image.src = "narrativeviz.svg";
+image.src = "india-states.svg";
 image.onload = function() {
   context.drawImage(image, 0, 0);
 
   var a = document.createElement("a");
-  a.download = "narrativeviz.png";
+  a.download = "india-states.png";
   a.href = canvas.toDataURL("image/png");
   a.click();
 };
