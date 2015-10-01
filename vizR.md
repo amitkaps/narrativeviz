@@ -1,8 +1,6 @@
 ---
-layout: workshop
-title: R
-permalink: workshop/R
-category: workshop
+layout: defualt
+title: Data Visualisation in R
 ---
 
 # Data Visualization in R
@@ -82,4 +80,4 @@ The workshop would be charged at Rs. 100,000 per day (for Indian locations) or U
 ## Facilitator's Profile
 Amit Kapoor is interested in learning and teaching the craft of telling visual stories with data. He uses storytelling and data visualization as tools for improving communication, persuasion and leadership. He conducts workshops and trainings for corporates, non-profits, colleges, and individuals at narrativeVIZ Consulting. He also teaches storytelling with data as guest faculty in executive courses at IIM Bangalore and IIM Ahmedabad.
 
-His background is in strategy consulting in using data-driven stories to drive change across organizations and businesses. He has more than 12 years of management consulting experience, first with AT Kearney in India, then with Booz & Company in Europe and more recently for startups in Bangalore. He did his B.Tech in Mechanical Engineering from IIT, Delhi and PGDM (MBA) from IIM, Ahmedabad. You can find more about him at [amitkaps](http://amitkaps.com) and tweet him at @amitkaps
+His background is in strategy consulting in using data-driven stories to drive change across organizations and businesses. He has more than 12 years of management consulting experience, first with AT Kearney in India, then with Booz & Company in Europe and more recently for startups in Bangalore. He did his B.Tech in Mechanical Engineering from IIT, Delhi and PGDM (MBA) from IIM, Ahmedabad. You can find more about him at [amitkaps.com](http://amitkaps.com) and tweet him at [@amitkaps](https://twitter.com/amitkaps).

@@ -1,8 +1,6 @@
 ---
-layout: workshop
+layout: default
 title: Crafting Visual Stories with Data
-permalink: workshop/crafting
-category: workshop
 ---
 
 # Crafting Visual Stories with Data
@@ -16,7 +14,7 @@ The ever increasing computational capacity has enabled us to acquire, process an
 
 Crafting visual stories with data is a cross disciplinary activity that requires us to operate at the intersection of a visual designer, coder, statistician, and storyteller. It is both a science and an art. The science involves learning the principles of graphic design, visual art, perceptual psychology, and cognitive science to better understand how our eyes, ears and brains can process inputs in an effective, efficient and accurate manner. The art involves exploring creative and innovative ways to create compelling data-visual-stories that appeal and engage at an emotional and aesthetic level.
 
-![Intersection of Data, Visual, and Story](../../assets/img/data_story_visual.png)
+![Intersection of Data, Visual, and Story](../../assets/img/data_visual_story.svg)
 
 ## Objectives
 
@@ -80,4 +78,4 @@ The workshop would be charged at Rs. 100,000 per day (for Indian locations) or U
 ## Facilitator's Profile
 Amit Kapoor is interested in learning and teaching the craft of telling visual stories with data. He uses storytelling and data visualization as tools for improving communication, persuasion and leadership. He conducts workshops and trainings for corporates, non-profits, colleges, and individuals at narrativeVIZ Consulting. He also teaches storytelling with data as guest faculty in executive courses at IIM Bangalore and IIM Ahmedabad.
 
-His background is in strategy consulting in using data-driven stories to drive change across organizations and businesses. He has more than 12 years of management consulting experience, first with AT Kearney in India, then with Booz & Company in Europe and more recently for startups in Bangalore. He did his B.Tech in Mechanical Engineering from IIT, Delhi and PGDM (MBA) from IIM, Ahmedabad. You can find more about him at [amitkaps](http://amitkaps.com) and tweet him at @amitkaps
+His background is in strategy consulting in using data-driven stories to drive change across organizations and businesses. He has more than 12 years of management consulting experience, first with AT Kearney in India, then with Booz & Company in Europe and more recently for startups in Bangalore. He did his B.Tech in Mechanical Engineering from IIT, Delhi and PGDM (MBA) from IIM, Ahmedabad. You can find more about him at [amitkaps.com](http://amitkaps.com) and tweet him at [@amitkaps](https://twitter.com/amitkaps).
