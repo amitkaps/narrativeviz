@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="800" height="500" viewbox = "0 0 800 500">
-	<circle cx="300" cy="175" r="150" fill="rgba(100,234,100,0.25)" stroke-width="1" stroke="rgba(100,100,100,0.2)"/>
-	<circle cx="500" cy="175" r="150" fill="rgba(234,100,100,0.25)" stroke-width="1" stroke="rgba(100,100,100,0.2)"/>
-	<circle cx="400" cy="325" r="150" fill="rgba(100,100,234,0.25)" stroke-width="1" stroke="rgba(100,100,100,0.2)"/>
-	<text x="300" y="175" fill="whitesmoke" font-size="1.8rem" text-anchor="end">DATA</text>
-	<text x="500" y="175" fill="whitesmoke" font-size="1.8rem" text-anchor="start">STORY</text>
-	<text x="400" y="375" fill="whitesmoke" font-size="1.8rem" text-anchor="middle">VISUAL</text>
-	<text x="400" y="150" fill="whitesmoke" font-size="1.2rem" text-anchor="middle">Tale</text>
-	<text x="325" y="275" fill="whitesmoke" font-size="1.2rem" text-anchor="middle">Graph</text>
-	<text x="475" y="275" fill="whitesmoke" font-size="1.2rem" text-anchor="middle">Art</text>
-	<text x="400" y="250" fill="whitesmoke" font-size="2.4rem" text-anchor="middle">*</text>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="600" height="400" viewbox = "0 0 800 600">
+	<circle cx="365" cy="150" r="100" fill="rgba(100,234,100,0.25)" stroke-width="2" stroke="rgba(100,100,100,0.5)"/>
+	<circle cx="300" cy="250" r="100" fill="rgba(100,100,234,0.25)" stroke-width="2" stroke="rgba(100,100,100,0.5)"/>
+	<circle cx="235" cy="150" r="100" fill="rgba(234,100,100,0.25)" stroke-width="2" stroke="rgba(100,100,100,0.5)"/>
+	<text x="235" y="150" font-size="1.3rem" text-anchor="end">DATA</text>
+	<text x="365" y="150" font-size="1.3rem" text-anchor="start">STORY</text>
+	<text x="300" y="300" font-size="1.3rem" text-anchor="middle">VISUAL</text>
+	<text x="300" y="125" font-size="1rem" text-anchor="middle">Tale</text>
+	<text x="240" y="225" font-size="1rem" text-anchor="middle">Graph</text>
+	<text x="350" y="225" font-size="1rem" text-anchor="middle">Art</text>
+	<text x="300" y="200" font-size="2rem" text-anchor="middle">*</text>
 </svg>
