@@ -66,8 +66,7 @@ layout: main
 <section id="interactivity" class="steps">
   <article>
     <h2 class="lead"> &#9318; Interactivity </h2>
-    <h3> Adding limited interactivity to  the data to find the patterns, the trends, the comparisons or the outliers
-        that can be used to craft your story. </h3>
+    <h3> Adding interactivity to the visualization to help the user to navigate the story or create his own story.</h3>
     <object type="image/svg+xml" data="assets/img/07_interactivity.svg" class="scene">Interactivity</object>
   </article>
 </section>
