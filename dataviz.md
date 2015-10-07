@@ -1,26 +1,24 @@
 ---
-layout: workshop
+layout: default
 title: Data Visualization (Academic Course)
-permalink: workshop/dataviz
-category: workshop
 ---
 
-# Data Visualization 
+# Data Visualization
 
 > _Graphical excellence is that which gives to the viewer the greatest number of ideas in the shortest time with the least ink in the smallest space. - Edward Tufte_
 
-The ever increasing computational capacity has enabled us to acquire, process and analyze larger data-sets and information. However, the human memory and attention required to use this data is more limited and has remained relatively constant. Data visualization can enable us to compress data and encode them in ways to aid perceptual, cognitive and emotional capacity required to comprehend, retain and make decisions using this data. This course is designed to help you learn the art and science of data visualization. 
+The ever increasing computational capacity has enabled us to acquire, process and analyze larger data-sets and information. However, the human memory and attention required to use this data is more limited and has remained relatively constant. Data visualization can enable us to compress data and encode them in ways to aid perceptual, cognitive and emotional capacity required to comprehend, retain and make decisions using this data. This course is designed to help you learn the art and science of data visualization.
 
 ## Course Objectives
 
-- Understand the value of data visualization and the role it plays in business analytics and decision making 
-- Learn the theory of data visualization including grammar, types, color, annotation, flow, animation, interaction etc. 
-- Build an understanding of visual perception and cognition to gain an intuitive sense of how data visualization work 
+- Understand the value of data visualization and the role it plays in business analytics and decision making
+- Learn the theory of data visualization including grammar, types, color, annotation, flow, animation, interaction etc.
+- Build an understanding of visual perception and cognition to gain an intuitive sense of how data visualization work
 - Get exposure to multiple tools that can be used to create data visualization
 - Learn through practice the multiple contexts in which data visualization is used in business
 	- Static visualization (say, adding a chart in a report)
 	- Dashboard visualization (say, monitoring KPIs in a operational  or strategic dashboard)
-	- Narrative visualization (say, telling a compelling data-story in a presentation) 
+	- Narrative visualization (say, telling a compelling data-story in a presentation)
 	- Interactive visualization (say, allowing user to visually explore a complex data-set)
 
 
@@ -41,7 +39,7 @@ _Session Readings and References_
 - [Optional] Chapter 3: Sources of Graphical Integrity & Sophistication (The Visual Display of Quantitative Information - Tufte)
 
 ### Session #2: Theory of Data Visualization
-- Learn the grammar of graphics: data, variable mapping, data transformation, geometric shape, position and aesthetics, a coordinate system, and scale transformation 
+- Learn the grammar of graphics: data, variable mapping, data transformation, geometric shape, position and aesthetics, a coordinate system, and scale transformation
 - See the principles of data-ink and chart-junk
 - Understand how visual perception works and how it can be applied to choose the appropriate visualizations
 
@@ -69,11 +67,11 @@ _Session Readings and References_
 
 ### Session #4: Tools for Data Visualization
 - Understand the tools landscape: Charting-based tools, Grammar-based tools and Canvas-based tools
-- Overview and introduction to select tools for data visualization: 
-	- [Excel](http://office.microsoft.com/en-in/excel/) 
-	- [Tableau](http://www.tableausoftware.com/public/) 
-	- [R - ggplot2](http://ggplot2.org/) 
-	- [d3.js](http://d3js.org/) 
+- Overview and introduction to select tools for data visualization:
+	- [Excel](http://office.microsoft.com/en-in/excel/)
+	- [Tableau](http://www.tableausoftware.com/public/)
+	- [R - ggplot2](http://ggplot2.org/)
+	- [d3.js](http://d3js.org/)
 	- [Processing](http://www.processing.org/)
 - Hands-on exercises for creating simple visualizations in each of these tools
 
@@ -111,7 +109,7 @@ _Session Readings and References_
 
 
 ### Session #7 - Putting together a Data Dashboard
-- Understand point of view in a dashboard: explanatory vs. exploratory 
+- Understand point of view in a dashboard: explanatory vs. exploratory
 - Choose a structure for the dashboard: flow, relationships, grouping or narrative
 - Map the dashboard layout: grids, white space and screen space
 - Understand guiding design principles: compactness, modularity, reveal, focus & guide attention, customization, context aware, lead to action
@@ -136,7 +134,7 @@ _Session Readings and References_
 - [Optional] Narrative Visualization: Telling Stories with Data - Segel & Heer - InfoVis 2010 ([pdf link](http://vis.stanford.edu/papers/narrative))
 
 ### Session #9 Animation and Interactivity
-- Engagement in context - personal, presentation & participation 
+- Engagement in context - personal, presentation & participation
 - Use of animation in graphical transitions
 - Explore common interaction patterns: select, explore, reconfigure, encode, filter, drill-down, connect and dynamic queries
 
@@ -163,6 +161,6 @@ Attending the class sessions is a must to engage in a dialogue and learn from th
 - Assignment #4 (group): Narrative or Interactive Visualization (25%)
 
 ## Facilitator's Profile
-Amit Kapoor is interested in learning and teaching the craft of telling visual stories with data. He uses storytelling and data visualization as tools for improving communication, persuasion and leadership. He conducts workshops and trainings for corporates, non-profits, colleges, and individuals at [narrativeVIZ Consulting](http://narrativeviz.com). He has also taught sessions on data visualization as a guest faculty in executive courses at IIM Bangalore and IIM Ahmedabad. 
+Amit Kapoor is interested in learning and teaching the craft of telling visual stories with data. He uses storytelling and data visualization as tools for improving communication, persuasion and leadership. He conducts workshops and trainings for corporates, non-profits, colleges, and individuals at [narrativeVIZ Consulting](http://narrativeviz.com). He has also taught sessions on data visualization as a guest faculty in executive courses at IIM Bangalore and IIM Ahmedabad.
 
-His background is in strategy consulting in using data-driven stories to drive change across businesses. He has more than 12 years of management consulting experience, first with AT Kearney in India, then with Booz & Company in Europe and more recently with startups in Bangalore. He did his B.Tech in Mechanical Engineering from IIT, Delhi and PGDM (MBA) from IIM, Ahmedabad. You can find more about him at [amitkaps.com](http://amitkaps.com) and tweet him at @amitkaps.
+His background is in strategy consulting in using data-driven stories to drive change across businesses. He has more than 12 years of management consulting experience, first with AT Kearney in India, then with Booz & Company in Europe and more recently with startups in Bangalore. He did his B.Tech in Mechanical Engineering from IIT, Delhi and PGDM (MBA) from IIM, Ahmedabad. You can find more about him at [amitkaps.com](http://amitkaps.com) and tweet him at [@amitkaps](https://twitter.com/amitkaps).
