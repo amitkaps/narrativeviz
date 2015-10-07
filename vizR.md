@@ -1,5 +1,5 @@
 ---
-layout: defualt
+layout: default
 title: Data Visualisation in R
 ---
 

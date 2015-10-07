@@ -1,5 +1,5 @@
 ---
-layout: defualt
+layout: default
 title: Designing Data Dashboards
 ---
 
