@@ -55,8 +55,8 @@ img.small {
 #workshops {background-color:rgba(242,242,242,0.2)}
 
 .thumbnail {
-  -webkit-filter: sepia(1);
-  filter: sepia(0.8);
+  -webkit-filter: grayscale(1);
+  filter: grayscale(1);
 }
 
 .steps {
