@@ -51,9 +51,13 @@ img.small {
 #messaging {background-color:rgba(254,217,166,0.2)}
 #flow {background-color:rgba(255,255,204,0.2)}
 #interactivity {background-color:rgba(229,216,189,0.2)}
-#about {background-color:rgba(253,218,236,0.2)}
+#clients {background-color:rgba(253,218,236,0.2)}
 #workshops {background-color:rgba(242,242,242,0.2)}
 
+.thumbnail {
+  -webkit-filter: sepia(1);
+  filter: sepia(0.8);
+}
 
 .steps {
   min-height: 40rem;

@@ -98,3 +98,25 @@ layout: main
 
   </article>
 </section>
+
+<section id="clients" class="steps">
+  <article>
+    <h2> Clients and Talks</h2>
+    <p> Selected list of academic institutes, corporates and conferences where I have given talks or conducted workshops on topics related to data visualisation and storytelling. </p>
+
+    <a href="https://generalassemb.ly/instructors/amit-kapoor/4814"><img class="thumbnail" src="/assets/img/logo/gaco.png"></a>
+    <a href="https://hasgeek.tv/amitkaps/speaking-in"><img class="thumbnail" src="/assets/img/logo/hasgeekcom.png"></a>
+    <a href="http://conferences.oreilly.com/strata/big-data-conference-sg-2015/public/schedule/speaker/193582"><img class="thumbnail" src="/assets/img/logo/strata.png"></a>
+    <a href="http://iimb.ernet.in"><img class="thumbnail" src="/assets/img/logo/iimb.png"></a>
+    <a href="http://nid.edu"><img class="thumbnail" src="/assets/img/logo/nid.png"></a>
+    <a href="http://iimahd.ernet.in"><img class="thumbnail" src="/assets/img/logo/iimahd.png"></a>
+    <a href="http://247-inc.com"><img class="thumbnail" src="/assets/img/logo/247inccom.png"></a>
+    <a href="http://cdac.in"><img class="thumbnail" src="/assets/img/logo/cdacin.png"></a>
+    <a href="http://honeywell.com"><img class="thumbnail" src="/assets/img/logo/honeywellcom.png"></a>
+    <a href="http://ge.com"><img class="thumbnail" src="/assets/img/logo/gecom.png"></a>
+    <a href="http://eclerx.com"><img class="thumbnail" src="/assets/img/logo/eclerxcom.png"></a>
+
+
+
+  </article>
+</section>

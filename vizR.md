@@ -74,7 +74,7 @@ The workshop would be scheduled over two days and would be delivered with a hand
 
 ## Workshop Cost
 
-The workshop would be charged at Rs. 100,000 per day (for Indian locations) or USD 5,000 per day (for International locations). Service tax and other government charges as applicable will be additional. Also, for sessions conducted outside of Bangalore, the facilitator's travel and accommodation cost would be charged on actuals.
+The workshop would be charged at Rs. 150,000 per day (for Indian locations) or USD 5,000 per day (for International locations). Service tax and other government charges as applicable will be additional. Also, for sessions conducted outside of Bangalore, the facilitator's travel and accommodation cost would be charged on actuals.
 
 
 ## Facilitator's Profile
