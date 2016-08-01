@@ -5,7 +5,6 @@ layout: main
 <section class="hero steps">
   <article>
     <object type="image/svg+xml" data="assets/img/00_data_story_visual.svg" class="scene">Data Story Visual</object>
-    <h3> Read on for the approach or go straight to the <a href="#workshops">workshops</a></h3>
   </article>
 </section>
 
@@ -69,54 +68,5 @@ layout: main
     <h3> Adding limited interactivity to visualisation to allow the audience to interact and navigate through
       the story. </h3>
     <object type="image/svg+xml" data="assets/img/07_interactivity.svg" class="scene">Interactivity</object>
-  </article>
-</section>
-
-
-<section id="workshops" class="steps">
-  <article>
-    <h2> See the Workshops </h2>
-
-    <h3> &#9424; <a href= "/crafting">Crafting Visual Stories with Data</a> </h3>
-
-    <p> Come and explore this intersection of data, story and visuals. An interactive workshop to learn about storytelling and data visualisation together, through hands-on sessions. </p>
-    <br>
-
-    <h3> &#9425; <a href= "/dashboards">Designing Data Dashboards</a> </h3>
-
-    <p> A one day hands on workshop to learn about fundamentals of making interactive high density dashboard that are easy to understand and monitor. </p>
-    <br>
-
-    <h3> &#9426; <a href= "/vizR">Data Visualization in R</a> </h3>
-
-    <p> A hands on workshop to learn how to use R &amp; R libraries for data visualization for conducting exploratory data analysis and communicating data insight visually. </p>
-    <br>
-
-    <h3> &#9427; <a href= "/dataviz">Data Visualization Course</a> </h3>
-
-    <p> If you are an academic institute (MBA, Design, Engineering or Analytics focussed) and want your students to learn the art and science of data visualization, then this 10 session course would be most appropriate for it. </p>
-
-  </article>
-</section>
-
-<section id="clients" class="steps">
-  <article>
-    <h2> Clients and Talks</h2>
-    <p> Selected list of academic institutes, corporates and conferences where I have given talks or conducted workshops on topics related to data visualisation and storytelling. </p>
-
-    <a href="https://generalassemb.ly/instructors/amit-kapoor/4814"><img class="thumbnail" src="/assets/img/logo/gaco.png"></a>
-    <a href="https://hasgeek.tv/amitkaps/speaking-in"><img class="thumbnail" src="/assets/img/logo/hasgeekcom.png"></a>
-    <a href="http://conferences.oreilly.com/strata/big-data-conference-sg-2015/public/schedule/speaker/193582"><img class="thumbnail" src="/assets/img/logo/strata.png"></a>
-    <a href="http://iimb.ernet.in"><img class="thumbnail" src="/assets/img/logo/iimb.png"></a>
-    <a href="http://nid.edu"><img class="thumbnail" src="/assets/img/logo/nid.png"></a>
-    <a href="http://iimahd.ernet.in"><img class="thumbnail" src="/assets/img/logo/iimahd.png"></a>
-    <a href="http://247-inc.com"><img class="thumbnail" src="/assets/img/logo/247inccom.png"></a>
-    <a href="http://cdac.in"><img class="thumbnail" src="/assets/img/logo/cdacin.png"></a>
-    <a href="http://honeywell.com"><img class="thumbnail" src="/assets/img/logo/honeywellcom.png"></a>
-    <a href="http://ge.com"><img class="thumbnail" src="/assets/img/logo/gecom.png"></a>
-    <a href="http://eclerx.com"><img class="thumbnail" src="/assets/img/logo/eclerxcom.png"></a>
-
-
-
   </article>
 </section>
